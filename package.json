@@ -1,0 +1,11 @@
+{
+	"name": "repeat-text",
+	"version": "1.0.0",
+	"description": "Repeat text or file",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "kennarddh",
+	"license": "MIT"
+}
