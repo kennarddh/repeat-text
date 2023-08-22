@@ -1,5 +1,5 @@
 const path = require('path')
-const { existsSync, mkdir, rmSync, mkdirSync } = require('fs')
+const { existsSync, rmSync, mkdirSync } = require('fs')
 
 const repeatText = require('./repeatText.js')
 const repeatFileAndWriteToGZIP = require('./repeatFileAndWriteToGZIP.js')
